@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshi</h1>
 <h3 align="center">Diving into the World of Data with a Passion for Finance</h3>
 
-- 🔭 I’m currently working on **Stock Seasonality**
+- 🔭 I’m currently working on **Trading Dashboard**
 
 - 🌱 I’m currently learning **Advanced Power BI**
 
